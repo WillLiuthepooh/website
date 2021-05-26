@@ -1,0 +1,23 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 auto;
+  padding: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+}
+
+div {
+  color: blue;
+}
+
+.bordered-div {
+  border: 1px solid black;
+}
+
+#first-div {
+  background-color: purple;
+  color: white;
+}
